@@ -8,7 +8,7 @@
 
 ## Skills
 
-- Flutter / Dart development
+- Flutter / Dart 
 - Vue / React
 - mySQL
 - HTML / JS / CSS
