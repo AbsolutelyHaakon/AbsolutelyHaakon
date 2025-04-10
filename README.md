@@ -1,5 +1,20 @@
-## Hi there 👋
+# 👋🏼 Welcome To My Profile 
 
+👨🏻‍🎓 I´m a computer science student at NTNU Ålesund
+
+🏫 Graduating summer 2025
+
+🌐 Portfolio: https://absolutelyhaakon.github.io/home
+
+## Skills
+
+- Flutter / Dart development
+- Vue / React
+- mySQL
+- HTML / JS / CSS
+- Java / JavaFX
+- Unity Engine
+- C# & C++
 <!--
 **AbsolutelyHaakon/AbsolutelyHaakon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
