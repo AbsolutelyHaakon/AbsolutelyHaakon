@@ -4,7 +4,7 @@
 
 🏫 Graduating summer 2025
 
-🌐 Portfolio: https://absolutelyhaakon.github.io/home
+🌐 Portfolio: https://absolutelyhaakon.github.io/
 
 ## Skills
 
